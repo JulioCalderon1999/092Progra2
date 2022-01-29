@@ -1,0 +1,17 @@
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\bin\Debug\net6.0-windows\201709109_Tienda.exe
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\bin\Debug\net6.0-windows\201709109_Tienda.deps.json
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\bin\Debug\net6.0-windows\201709109_Tienda.runtimeconfig.json
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\bin\Debug\net6.0-windows\201709109_Tienda.dll
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\bin\Debug\net6.0-windows\ref\201709109_Tienda.dll
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\bin\Debug\net6.0-windows\201709109_Tienda.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.vbproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\_201709109_Tienda.Form1.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.vbproj.GenerateResource.cache
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.AssemblyInfo.vb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.dll
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\ref\201709109_Tienda.dll
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Tienda\obj\Debug\net6.0-windows\201709109_Tienda.genruntimeconfig.cache
