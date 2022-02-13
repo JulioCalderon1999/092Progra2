@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "201709109_CASAMONEDA1/1.0.0": {
+        "runtime": {
+          "201709109_CASAMONEDA1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "201709109_CASAMONEDA1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
