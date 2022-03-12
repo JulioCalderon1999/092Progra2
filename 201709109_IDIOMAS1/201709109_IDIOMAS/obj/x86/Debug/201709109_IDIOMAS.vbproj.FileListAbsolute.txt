@@ -1,0 +1,18 @@
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\bin\Debug\201709109_IDIOMAS.exe
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\bin\Debug\201709109_IDIOMAS.pdb
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\bin\Debug\201709109_IDIOMAS.xml
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\obj\x86\Debug\_201709109_IDIOMAS.Form1.resources
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\obj\x86\Debug\_201709109_IDIOMAS.Resources.resources
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\obj\x86\Debug\201709109_IDIOMAS.vbproj.GenerateResource.Cache
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\obj\x86\Debug\201709109_IDIOMAS.exe
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\obj\x86\Debug\201709109_IDIOMAS.xml
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_IDIOMAS\obj\x86\Debug\201709109_IDIOMAS.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\obj\x86\Debug\201709109_IDIOMAS.exe
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\obj\x86\Debug\201709109_IDIOMAS.xml
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\obj\x86\Debug\201709109_IDIOMAS.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\bin\Debug\201709109_IDIOMAS.exe
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\bin\Debug\201709109_IDIOMAS.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\bin\Debug\201709109_IDIOMAS.xml
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\obj\x86\Debug\_201709109_IDIOMAS.Form1.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\obj\x86\Debug\_201709109_IDIOMAS.Resources.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_IDIOMAS1\201709109_IDIOMAS\obj\x86\Debug\201709109_IDIOMAS.vbproj.GenerateResource.Cache
