@@ -1,0 +1,18 @@
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\bin\Debug\201709109_Supermercado.exe
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\bin\Debug\201709109_Supermercado.pdb
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\bin\Debug\201709109_Supermercado.xml
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\obj\x86\Debug\_201709109_Supermercado.Form1.resources
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\obj\x86\Debug\_201709109_Supermercado.Resources.resources
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\obj\x86\Debug\201709109_Supermercado.vbproj.GenerateResource.Cache
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\obj\x86\Debug\201709109_Supermercado.exe
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\obj\x86\Debug\201709109_Supermercado.xml
+C:\Users\julio\AppData\Local\Temporary Projects\201709109_Supermercado\obj\x86\Debug\201709109_Supermercado.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\obj\x86\Debug\201709109_Supermercado.exe
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\obj\x86\Debug\201709109_Supermercado.xml
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\obj\x86\Debug\201709109_Supermercado.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\bin\Debug\201709109_Supermercado.exe
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\bin\Debug\201709109_Supermercado.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\bin\Debug\201709109_Supermercado.xml
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\obj\x86\Debug\_201709109_Supermercado.Form1.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\obj\x86\Debug\_201709109_Supermercado.Resources.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Supermercado\201709109_Supermercado\obj\x86\Debug\201709109_Supermercado.vbproj.GenerateResource.Cache
