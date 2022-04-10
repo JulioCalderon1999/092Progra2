@@ -1,0 +1,9 @@
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\users\julio\onedrive\documentos\visual studio 2010\Projects\TAREA7_201709109\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
