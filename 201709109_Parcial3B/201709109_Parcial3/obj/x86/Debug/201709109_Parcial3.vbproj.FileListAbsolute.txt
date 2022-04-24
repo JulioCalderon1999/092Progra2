@@ -1,0 +1,9 @@
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\bin\Debug\201709109_Parcial3.exe
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\bin\Debug\201709109_Parcial3.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\bin\Debug\201709109_Parcial3.xml
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\obj\x86\Debug\_201709109_Parcial3.Form1.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\obj\x86\Debug\_201709109_Parcial3.Resources.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\obj\x86\Debug\201709109_Parcial3.vbproj.GenerateResource.Cache
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\obj\x86\Debug\201709109_Parcial3.exe
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\obj\x86\Debug\201709109_Parcial3.xml
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\201709109_Parcial3\201709109_Parcial3\obj\x86\Debug\201709109_Parcial3.pdb
