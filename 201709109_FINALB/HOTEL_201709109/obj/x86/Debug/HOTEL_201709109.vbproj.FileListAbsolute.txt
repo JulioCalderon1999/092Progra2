@@ -1,0 +1,18 @@
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\bin\Debug\HOTEL_201709109.exe
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\bin\Debug\HOTEL_201709109.pdb
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\bin\Debug\HOTEL_201709109.xml
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.Form1.resources
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.Resources.resources
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.vbproj.GenerateResource.Cache
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.exe
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.xml
+C:\Users\julio\AppData\Local\Temporary Projects\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.xml
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.Form1.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.Resources.resources
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.vbproj.GenerateResource.Cache
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\bin\Debug\HOTEL_201709109.exe
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\bin\Debug\HOTEL_201709109.pdb
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\bin\Debug\HOTEL_201709109.xml
+C:\Users\julio\OneDrive\Documentos\San Carlos 2022\1ER SEMESTRE 2022\PROGRA 092\HOTEL_201709109\HOTEL_201709109\obj\x86\Debug\HOTEL_201709109.exe
